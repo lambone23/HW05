@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HW05.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\HW05Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\HW05.init.gen.cpp.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\MyActor.gen.cpp.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\HW05.cpp.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\MyActor.cpp.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\PerModuleInline.gen.cpp.obj"
+"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\Default.rc2.res"
+/OUT:"C:\Users\ysurk\Documents\_git\HW05\HW05\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW05\UnrealEditor-HW05.lib"

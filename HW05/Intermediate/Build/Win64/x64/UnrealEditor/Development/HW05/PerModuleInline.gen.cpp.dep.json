@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw05\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\x64\\hw05editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw05\\definitions.hw05.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

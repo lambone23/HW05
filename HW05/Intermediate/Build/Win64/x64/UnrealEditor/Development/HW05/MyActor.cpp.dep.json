@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\source\\hw05\\private\\myactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\x64\\hw05editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw05\\definitions.hw05.h",
+            "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\source\\hw05\\public\\myactor.h",
+            "c:\\users\\ysurk\\documents\\_git\\hw05\\hw05\\intermediate\\build\\win64\\unrealeditor\\inc\\hw05\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
